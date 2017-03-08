@@ -1,0 +1,13 @@
+{
+    "devDependencies": {
+        "express": "4.13.4",
+        "gulp": "github:gulpjs/gulp#4.0",
+        "istanbul": "0.4.0",
+        "gulp-istanbul": "1.1.1",
+        "gulp-serv": "0.0.1",
+        "protractor": "4.0.9",
+        "gulp-rimraf": "0.2.1",
+        "protractor-istanbul-plugin": "2.0.0",
+        "protractor-jasmine2-screenshot-reporter": "0.3.3"
+    }
+}
