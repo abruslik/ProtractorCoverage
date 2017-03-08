@@ -28,7 +28,7 @@ System pre-requisites:
     ├ package.json
     └ README.md
   ```
-## How it works?
+## How does it work?
 
 ## How to run?
   Clone repository.
