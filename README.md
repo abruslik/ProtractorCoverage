@@ -2,7 +2,7 @@
 An example how Protractor tests can be run together with Istanbul tool to get a coverage report of executed tests.
 
 ## Prerequisites.
-This project has been designed for Windows environment, but should have easy adaptation for Mac OS and Unix/Linux systems. It will be enough to change **exec** commands to run webdriver and protractor in some tasks defined in gulpfile.js.
+This project has been designed for Windows environment, but can be easily adapted for Mac OS and Unix/Linux systems. It will be enough to change **exec** commands to run webdriver and protractor in some tasks defined in gulpfile.js.
 
 System prerequisites:
  * **Node.JS** version 6.10.x (LTS);
