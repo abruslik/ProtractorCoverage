@@ -29,7 +29,7 @@ System prerequisites:
     ├ package.json
     └ README.md
   ```
-## How does it work?
+## How it works.
 Provided example contains protractor project where **protractor-istanbul-plugin** is used to extract code coverage data from application loaded into browser. The source code of application should be instrumented before protractor running. During running of protractor tests on instrumented application the plugin will extract coverage data into **/coverage/** directory. Html report will be generated as soon as protractor tests complete.
 
 ## How to run?
